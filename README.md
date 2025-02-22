@@ -1,10 +1,10 @@
--👋 Hi, I’m Mangesh Kable
--👀 I’m interested in Cybersecurity
--🌱 I’m currently learning BTech (Final Year)
--💞️ I’m looking to collaborate on cybersecurity projects, ethical hacking, and IoT security
--📫 How to reach me: mangeshkable7@gmail.com or www.linkedin.com/in/mangesh-web-developer-cybersecurity 
--😄 Pronouns: He/Him
--⚡ Fun fact: I love experimenting with AI and building smart IoT systems
+-👋 Hi, I’m Mangesh Kable<br>
+-👀 I’m interested in Cybersecurity<br>
+-🌱 I’m currently learning BTech (Final Year)<br>
+-💞️ I’m looking to collaborate on cybersecurity projects, ethical hacking, and IoT security<br>
+-📫 How to reach me: mangeshkable7@gmail.com or www.linkedin.com/in/mangesh-web-developer-cybersecurity<br> 
+-😄 Pronouns: He/Him<br>
+-⚡ Fun fact: I love experimenting with AI and building smart IoT systems<br>
 
 
 
