@@ -1,10 +1,19 @@
--👋 Hi, I’m Mangesh Kable<br>
--👀 I’m interested in Cybersecurity<br>
--🌱 I’m currently learning BTech (Final Year)<br>
--💞️ I’m looking to collaborate on cybersecurity projects, ethical hacking, and IoT security<br>
--📫 How to reach me: mangeshkable7@gmail.com or www.linkedin.com/in/mangesh-web-developer-cybersecurity<br> 
--😄 Pronouns: He/Him<br>
--⚡ Fun fact: I love experimenting with AI and building smart IoT systems<br>
+👋 Hi, I’m Mangesh Kable<br>
+🔍 Interest: Cybersecurity, Ethical Hacking, IoT Security, Python Development<br>
+🎓 Currently Learning: BTech (Final Year) | Passionate about Cybersecurity & AI Integration<br>
+💼 Experience:<br>
+
+Python Developer Intern @ LetsGrowMore (June 2024 - July 2024)<br>
+Sales Co-Ordinator @ MAS Financial Services Ltd.<br>
+Admin Assistant @ Enthral<br>
+🤖 Projects:<br>
+
+Voice Assistant with Gemini AI for IoT (ESP32-based Speech-to-Text & Text-to-Speech)<br>
+E-commerce App (Java-based with authentication, product management, and payment integration)<br>
+🤝 Open to Collaboration on: Cybersecurity Projects, Ethical Hacking, IoT Security, AI & Security Integration<br>
+📬 Reach Me At: Email: mangeshkable7@gmail.com | LinkedIn<br>
+
+
 
 
 
