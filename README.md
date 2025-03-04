@@ -3,13 +3,13 @@
 🎓 Currently Learning: BTech (Final Year) | Passionate about Cybersecurity & AI Integration<br>
 💼 Experience:<br>
 
-Python Developer Intern @ LetsGrowMore (June 2024 - July 2024)<br>
-Sales Co-Ordinator @ MAS Financial Services Ltd.<br>
-Admin Assistant @ Enthral<br>
+    - Python Developer Intern @ LetsGrowMore (June 2024 - July 2024)<br>
+    - Sales Co-Ordinator @ MAS Financial Services Ltd.<br>
+    - Admin Assistant @ Enthral<br>
 🤖 Projects:<br>
 
-Voice Assistant with Gemini AI for IoT (ESP32-based Speech-to-Text & Text-to-Speech)<br>
-E-commerce App (Java-based with authentication, product management, and payment integration)<br>
+    - Voice Assistant with Gemini AI for IoT (ESP32-based Speech-to-Text & Text-to-Speech)<br>
+    - E-commerce App (Java-based with authentication, product management, and payment integration)<br>
 🤝 Open to Collaboration on: Cybersecurity Projects, Ethical Hacking, IoT Security, AI & Security Integration<br>
 📬 Reach Me At: Email: mangeshkable7@gmail.com | LinkedIn<br>
 
