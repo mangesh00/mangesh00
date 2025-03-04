@@ -9,7 +9,7 @@
     - Voice Assistant with Gemini AI for IoT (ESP32-based Speech-to-Text & Text-to-Speech)<br>
     - E-commerce App (Java-based with authentication, product management, and payment integration)<br>
 🤝 Open to Collaboration on: Cybersecurity Projects, Ethical Hacking, IoT Security, AI & Security Integration<br>
-📬 Reach Me At: Email: mangeshkable7@gmail.com | LinkedIn<br>
+📬 Reach Me At: Email: mangeshkable7@gmail.com | LinkedIn: https://www.linkedin.com/in/mangesh<br>
 
 
 
